@@ -8,5 +8,5 @@ Creating a new branch is quick and simple.
 >>>>>>> feature1
 
 
-Other model to merge branch .
+Other model to merge branch(no-ff).
 
